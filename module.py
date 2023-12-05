@@ -1,3 +1,5 @@
+#Louisa Mandy Halim - 2702325552
+
 class fooditems():  # Creating food items class
     # Initializer
     def __init__(self, food, pounds):  # Use __init__ instead of init
